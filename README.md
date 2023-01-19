@@ -1,6 +1,6 @@
 # starapp-interview-task2
-Position scale - 
---------------------------------------0(First Airport)-----------------------N-1(last airport)----------------------------------------
+Position scale -  
+-------------------------0(First Airport)-------------------------N-1(last airport)-------------------------
 
 The algorithm must be started from the First Airport (position 0).
 The steps for this algorithm are - 
